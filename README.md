@@ -1,6 +1,6 @@
 Hi 👋, I’m @wish837
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish837&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish837&show_icons=true)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wish837&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wish837)
 
 - 👀 I’m interested in ...
