@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=170&section=header&text=Hi,%20I'm%20WIS!&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=000000)
   
-  #### A student who likes coding:)
+  #### A student who likes coding :D
   
   ## Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wish837&show_icons=true)
