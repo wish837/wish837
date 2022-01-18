@@ -11,7 +11,8 @@
   ## Stack
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  귀찮아나중에하자...
+  
+  아몰랑나중에하자...
   
   ## Social
   <a href="https://velog.io/@wish837" target="_blank"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
