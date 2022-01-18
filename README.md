@@ -10,7 +10,7 @@
   
   ## Stack
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-  아오귀찮아나중에하자...
+  귀찮아나중에하자...
   
   ## Social
   <a href="https://velog.io/@wish837" target="_blank"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
